@@ -1,0 +1,28 @@
+
+
+h1{
+    background-color: rgb(65, 65, 65);
+}
+
+q {
+    font-weight: bold;
+}
+
+body {
+    font-family:sans-serif;
+    background-color: rgb(102, 10, 10);
+    color: white;
+}
+
+li {
+    background-color: rgb(132, 15, 15);
+}
+
+.btn {
+    background-color: rgb(74, 3, 140);
+}
+
+li img {
+    width: 400px;
+    height: auto;
+}
